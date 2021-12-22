@@ -1,0 +1,10 @@
+C:\Users\Huseyin\Desktop\photo\bin\Debug\photo.exe.config
+C:\Users\Huseyin\Desktop\photo\bin\Debug\photo.exe
+C:\Users\Huseyin\Desktop\photo\bin\Debug\photo.pdb
+C:\Users\Huseyin\Desktop\photo\obj\Debug\photo.csprojAssemblyReference.cache
+C:\Users\Huseyin\Desktop\photo\obj\Debug\photo.Form1.resources
+C:\Users\Huseyin\Desktop\photo\obj\Debug\photo.Properties.Resources.resources
+C:\Users\Huseyin\Desktop\photo\obj\Debug\photo.csproj.GenerateResource.cache
+C:\Users\Huseyin\Desktop\photo\obj\Debug\photo.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\photo\obj\Debug\photo.exe
+C:\Users\Huseyin\Desktop\photo\obj\Debug\photo.pdb
